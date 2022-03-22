@@ -4,10 +4,10 @@
 
 ### 1. TypeScrypt
 
-- [ ] 1.  TypeScript란 무엇인가
-- [ ] 2.  TypeScript 설치 및 사용
-- [ ] 3.  VS Code 설치 및 설정
-- [ ] 4.  First Type Annotation
+- [x] 1.  TypeScript란 무엇인가 - 22.03.22
+- [x] 2.  TypeScript 설치 및 사용 - 22.03.22
+- [x] 3.  VS Code 설치 및 설정 - 22.03.22
+- [x] 4.  First Type Annotation - 22.03.22
 
 ### 2. Basic Types
 
