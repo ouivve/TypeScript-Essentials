@@ -11,11 +11,11 @@
 
 ### 2. Basic Types
 
-- [ ] 1.  TypeScript vs. JavaScript Types
-- [ ] 2.  Primitive Types
-- [ ] 3.  boolean
-- [ ] 4.  number
-- [ ] 5.  string
+- [x] 1.  TypeScript vs. JavaScript Types - 22.03.23
+- [x] 2.  Primitive Types - 22.03.23
+- [x] 3.  boolean - 22.03.23
+- [x] 4.  number - 22.03.23
+- [x] 5.  string - 22.03.23
 - [ ] 6.  symbol
 - [ ] 7.  null & undefined
 - [ ] 8.  object
