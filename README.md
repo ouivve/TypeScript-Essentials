@@ -16,11 +16,11 @@
 - [x] 3.  boolean - 22.03.23
 - [x] 4.  number - 22.03.23
 - [x] 5.  string - 22.03.23
-- [ ] 6.  symbol
-- [ ] 7.  null & undefined
-- [ ] 8.  object
-- [ ] 9.  Array
-- [ ] 10. Tuple
+- [x] 6.  symbol - 22.03.24
+- [x] 7.  null & undefined - 22.03.24
+- [x] 8.  object - 22.03.24
+- [x] 9.  Array - 22.03.24
+- [x] 10. Tuple - 22.03.24
 - [ ] 11. any
 - [ ] 12. unknown
 - [ ] 13. never
