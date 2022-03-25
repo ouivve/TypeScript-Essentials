@@ -21,10 +21,10 @@
 - [x] 8.  object - 22.03.24
 - [x] 9.  Array - 22.03.24
 - [x] 10. Tuple - 22.03.24
-- [ ] 11. any
-- [ ] 12. unknown
-- [ ] 13. never
-- [ ] 14. void
+- [x] 11. any - 22.03.25
+- [x] 12. unknown - 22.03.25
+- [x] 13. never - 22.03.25
+- [x] 14. void - 22.03.25
 
 ### 3. Type System
 
