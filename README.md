@@ -28,8 +28,8 @@
 
 ### 3. Type System
 
-- [ ] 1.  작성자와 사용자의 관점으로 코드 바라보기
-- [ ] 2.  Structural Type System vs. Nominal Type System
+- [x] 1.  작성자와 사용자의 관점으로 코드 바라보기 - 22.03.26
+- [x] 2.  Structural Type System vs. Nominal Type System - 22.03.26
 - [ ] 3.  타입 호환성 (Type compatibility)
 - [ ] 4.  타입 별칭 (Type Alias)
 
