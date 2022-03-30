@@ -30,13 +30,13 @@
 
 - [x] 1.  작성자와 사용자의 관점으로 코드 바라보기 - 22.03.26
 - [x] 2.  Structural Type System vs. Nominal Type System - 22.03.26
-- [ ] 3.  타입 호환성 (Type compatibility)
-- [ ] 4.  타입 별칭 (Type Alias)
+- [x] 3.  타입 호환성 (Type compatibility) - 22.03.28
+- [x] 4.  타입 별칭 (Type Alias) - 22.03.28
 
 ### 4. TypeScript Compiler
 
-- [ ] 1.  Compilation Context
-- [ ] 2.  tsconfig schema
+- [x] 1.  Compilation Context - 22.03.30
+- [x] 2.  tsconfig schema - 22.03.30
 - [ ] 3.  compileOnSave
 - [ ] 4.  extends
 - [ ] 5.  files, include, exclude
