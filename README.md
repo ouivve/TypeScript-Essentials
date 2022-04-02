@@ -37,7 +37,7 @@
 
 - [x] 1.  Compilation Context - 22.03.30
 - [x] 2.  tsconfig schema - 22.03.30
-- [ ] 3.  compileOnSave
+- [x] 3.  compileOnSave = 22.04.02
 - [ ] 4.  extends
 - [ ] 5.  files, include, exclude
 - [ ] 6.  compileOptions - typeRoots, types
