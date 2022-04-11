@@ -39,8 +39,8 @@
 - [x] 2.  tsconfig schema - 22.03.30
 - [x] 3.  compileOnSave - 22.04.02
 - [x] 4.  extends - 22.04.04
-- [x] 5.  files, include, exclude
-- [ ] 6.  compileOptions - typeRoots, types
+- [x] 5.  files, include, exclude - 22.04.07
+- [ ] 6.  compileOptions - typeRoots, types - 22.04.11
 - [ ] 7.  compileOptions - target, lib
 - [ ] 8.  compileOptions - outDir, outFile, rootDir
 - [ ] 9.  compileOptions - strict
