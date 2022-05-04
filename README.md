@@ -81,3 +81,8 @@
 - [ ] 5.  Generics Class
 - [ ] 6.  Generics with extends
 - [ ] 7.  keyof & type lookup system
+
+## Reference
+
+- [typescriptlang.org](https://www.typescriptlang.org/)
+- [TypeScript 한글문서](https://typescript-kr.github.io/pages/basic-types.html)
